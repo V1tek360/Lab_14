@@ -63,6 +63,7 @@ public class Lab_14 extends Frame {
 
     public static void main(String[] args) {
         new Lab_14();
+        System.out.println("");
     }
 }
 
